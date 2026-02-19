@@ -39,6 +39,5 @@ The analysis revealed several important insights:
 
 These findings demonstrate how data analytics can support business decision-making, including marketing strategy, pricing optimization, and inventory planning.
 
-## Repository Structure
 
 
